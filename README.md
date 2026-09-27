@@ -4,7 +4,7 @@
 
 Neuro-Pacman Arena is a 100% dependency-free, purely client-side Machine Learning simulation built natively in the browser. Watch a swarm of 35 neural-network-driven Pac-Men evolve, learn pathfinding, and evade ghosts in real-time—no cloud APIs, no server costs, and no NPM packages required.
 
----
+----
 
 ## ⚡ The Pitch (Why This Wins)
 
